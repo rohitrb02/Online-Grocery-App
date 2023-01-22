@@ -1,0 +1,19 @@
+#a{
+    font-size:xx-large;
+    font-weight:650;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+#a1{
+    font-size:x-large;
+    font-weight:650;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+.multicolortext {
+    background-image: linear-gradient(to left,#84fc79 0%, #245c2b 100%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }

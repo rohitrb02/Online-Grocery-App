@@ -1,0 +1,28 @@
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\DOTNET\Project_Grocery\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\rahul backend\Done\project_backend\Grocery_App\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

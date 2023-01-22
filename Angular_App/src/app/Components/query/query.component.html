@@ -1,0 +1,18 @@
+<div class="container">
+    <div style="text-align: center;">
+        <img src="\assets\Images\grocery_logo.png" alt="error" width="300" height="200" />
+      </div>
+      <div class="row" style="margin-bottom: 40px;">
+<form class="form" [formGroup]="queryForm" *ngIf="queryForm" (ngSubmit)="submitCall(queryForm.value)">
+    <div class="form-group">
+        <h3 style="text-align:center;">Ask Query</h3>
+    </div>
+    <div class="form-group">
+        <label for="queryDiscription" style="margin-top:20px;"><b>Write A Query</b></label>
+        <input type="text" class="form-control" name="queryDiscription" formControlName="queryDiscription" id="queryDiscription" style="margin-top:10px;"/>
+    </div>
+    <button type="submit" [disabled]="queryForm.invalid" class="btn btn-primary"style="margin-top:10px;float:right;">Submit</button>
+</form>
+</div>
+</div>
+

@@ -1,0 +1,186 @@
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\appsettings.json
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\GroceryAppAPI.exe
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\GroceryAppAPI.deps.json
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\GroceryAppAPI.runtimeconfig.json
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\GroceryAppAPI.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\GroceryAppAPI.pdb
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.csproj.AssemblyReference.cache
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.AssemblyInfoInputs.cache
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.AssemblyInfo.cs
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.csproj.CoreCompileInputs.cache
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\scopedcss\bundle\GroceryAppAPI.styles.css
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.csproj.CopyComplete
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\refint\GroceryAppAPI.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.pdb
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.genruntimeconfig.cache
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\ref\GroceryAppAPI.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Humanizer.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\DataAccessLayer.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\DOTNET\Project_Grocery\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Ocelot.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\appsettings.json
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\GroceryAppAPI.exe
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\GroceryAppAPI.deps.json
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\GroceryAppAPI.runtimeconfig.json
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\GroceryAppAPI.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\GroceryAppAPI.pdb
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Humanizer.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Ocelot.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\DataAccessLayer.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.csproj.AssemblyReference.cache
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.AssemblyInfoInputs.cache
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.AssemblyInfo.cs
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.csproj.CoreCompileInputs.cache
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\scopedcss\bundle\GroceryAppAPI.styles.css
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.csproj.CopyComplete
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\refint\GroceryAppAPI.dll
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.pdb
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\GroceryAppAPI.genruntimeconfig.cache
+C:\rahul backend\Done\project_backend\Grocery_App\GroceryAppAPI\obj\Debug\net6.0\ref\GroceryAppAPI.dll

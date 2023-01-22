@@ -1,0 +1,12 @@
+.i-name{
+    color: lightgray;
+    padding: 30px 30px 0 30px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.status{
+    background-color: blue;
+    color: white;
+}
+

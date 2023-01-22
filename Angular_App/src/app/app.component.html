@@ -1,0 +1,12 @@
+<div *ngIf="logedIn==false">
+<header></header>
+<router-outlet></router-outlet>
+<footer></footer>
+<app-chatbot-model></app-chatbot-model>
+</div>
+<div *ngIf="logedIn==true">
+    <header2></header2>
+    <router-outlet></router-outlet>
+    <footer2></footer2>
+    <app-chatbot-model></app-chatbot-model>
+</div>

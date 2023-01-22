@@ -1,0 +1,40 @@
+<div class="mx-0 mx-sm-auto">
+    <div class="card">
+      <div class="card-body">
+  
+        <div style="text-align: center;">
+          <img src="\assets\Images\grocery_logo.png" alt="error" width="300" height="200" />
+  
+  
+        </div>
+  
+        <form #f1="ngForm" class="px-4" action="">
+          <p class="text-center"><strong>How do you rate our Grocery Mania:</strong></p>
+          <div class="conatiner" style="text-align: center;color: blue;--star-size: 60px; ">
+              <!-- <input #rating="ngModel" [(ngModel)]="appFeedback.rating" name="rating" class="form-control"> -->
+              <ngb-rating #rating="ngModel" [(ngModel)]="appFeedback.rating" name="rating" style="--star-size: 60px;font-size: 50px;" [max]="5" [(rate)]=currentrate [readonly]="false"
+              ></ngb-rating>
+            <!-- <p>rate:{{currentrate}}</p> -->
+          </div>
+  
+  
+  
+          <p class="text-center"  for="review"><strong>What could we improve?</strong></p>
+  
+          <!-- Message input -->
+          <div class="form-outline mb-4">
+            <input #review="ngModel" [(ngModel)]="appFeedback.review" name="review" class="form-control" id="form4Example6" rows="4">
+            <div style="text-align: right;">
+              <label class="form-label" for="form4Example6" style="color: green;"><i>Your feedback</i></label>
+            </div>
+            <div style="text-align: right;">
+              <button [disabled]="f1.invalid" (click)="Feedback()" type="button" class="btn btn-primary">Submit</button>
+  
+            </div>
+          </div>
+        </form>
+      </div>
+  
+    </div>
+  </div>
+  

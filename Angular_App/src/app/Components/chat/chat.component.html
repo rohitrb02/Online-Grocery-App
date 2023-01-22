@@ -1,0 +1,25 @@
+<div style="width: 100%; height: 300px;overflow-y:auto;text-align: right;">
+    <div style="width: 100%;height: 80%;overflow-y:auto;">
+        <ng-container *ngFor="let message of messages">
+            <div class="message" [ngClass]="{from: message.author === 'bot',to: message.author === 'user'}">
+                {{ message.content }}
+            </div>
+        </ng-container>
+
+    </div>
+
+
+    <div style="position: absolute;right: 15px;bottom: 10;">
+        <!-- <div class="form-group">
+            <label for="nameField">Chat Bot</label>
+        </div> -->
+
+        <div class="form-group">
+            <input [(ngModel)]="value" (keyup.enter)="sendMessage()" type="text" />
+        </div>
+
+        <button class="btn btn-success" (click)="sendMessage()">Send</button>
+
+
+    </div>
+</div>

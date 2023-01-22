@@ -1,0 +1,47 @@
+#heading {
+    text-align: center;
+    font-size: 46px;
+    font-weight: 700;
+    font-family: 'Brush Script MT', cursive;
+    height: 250px;
+    padding: 110px;
+    background-image: url('/assets/Images/grocery_bg.png'), url('/assets/Images/ldesign.png'), linear-gradient(to bottom right, #84fc79 0%, #245c2b 100%);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: middle left, right, bottom right;
+    color: #e4ffe2;
+}
+
+#bd1 {
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: center;
+    margin: 20px;
+    color: whitesmoke;
+}
+
+#bd2 {
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#p3{
+    font-size:29px;
+    font-weight:500;
+    
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+#p4{
+    font-size: 20px;
+    font-weight: 400;
+    
+    cursor: pointer;
+    color: whitesmoke;
+}
+img{
+    height: 70px;
+    width: 70px;
+}

@@ -1,0 +1,20 @@
+<div style="position: fixed;right: 15px;bottom: 10px;">
+    <button  class="btn btn-lg btn-inline-success" (click)="open(mymodal)"><img src="\assets\Images\chat.png" /></button>
+    <!-- <img src="assets\Images\chat.png" (click)="open(mymodal)" /> -->
+
+</div>
+   
+<ng-template #mymodal let-modal>
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">Chat Bot</h4>
+    <button type="button" class="btn btn-outline-dark" (click)="modal.close('Save click')">Close</button>
+
+
+  </div>
+  <div class="modal-body">
+    <chat></chat>
+  </div>
+  <!-- <div class="modal-footer">
+    <button type="button" class="btn btn-outline-dark" (click)="modal.close('Save click')">Close</button>
+  </div> -->
+</ng-template>

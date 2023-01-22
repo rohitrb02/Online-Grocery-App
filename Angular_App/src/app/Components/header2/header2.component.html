@@ -1,0 +1,76 @@
+<div>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" id="logo" href="home2">Grocery Mania</a>
+            <form class="d-flex" role="search" [formGroup]="searchForm" *ngIf="searchForm" >
+                <input class="form-control me-2" type="search" formControlName="search" placeholder="Search Product Name" aria-label="Search">
+                <button class="btn btn-outline-success" [routerLink]="['search',searchForm.value.search]" type="submit">Search</button>
+            </form>
+            <span [routerLink]="['/addcart']" style="cursor: pointer;"><i class="fa fa-cart-arrow-down fa-2x" aria-hidden="true" style="color:white;"></i></span>
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
+                data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar"
+                aria-labelledby="offcanvasDarkNavbarLabel" style="width:280px">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel" style="font-size:x-large">{{username}}
+                    </h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"
+                        aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3" style="font-size:large">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#" [routerLink]="['/home2']">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" [routerLink]="['/profile']">Profile</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle"  role="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">
+                                Settings
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-dark">
+                                <li><a class="dropdown-item"  [routerLink]="['/editprofile']">Edit Profile</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" [routerLink]="['/changepassword']">Change Password</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">
+                                Ask Query
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-dark">
+                                <li><a class="dropdown-item" [routerLink]="['/query']" (click)="queryCall(2)">To Vendor</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" [routerLink]="['/query']" (click)="queryCall(1)">To Admin</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" [routerLink]="['/addcart']">Go to Cart</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" [routerLink]="['/orderHistory']">Previous Orders</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" [routerLink]="['/rating']">Rate Us</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="home" (click)="logoutCall()">Logout</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+<div>
+</div>

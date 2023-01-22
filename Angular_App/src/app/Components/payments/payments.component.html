@@ -1,0 +1,95 @@
+<div class="container bg-light d-md-flex align-items-center">
+    <div class="card box1 shadow-sm p-md-5 p-md-5 p-4" *ngIf="payment==false">
+        <div class="d-flex flex-column mb-4">
+            <span class="far fa-file-alt text">
+                <span class="ps-2">Invoice ID: SN8478042099</span>
+            </span>
+           </div>
+        <h4>Chose Delevery Option</h4><br/>
+        <form class="form" [formGroup]="paymentForm" *ngIf="paymentForm">
+        <div class="form-group">
+            <input class="form-check-input" [defaultChecked]=true type="radio" name="flexRadioDefault" id="flexRadioDefault1" value="1" (click)="showHideText(false);"/>
+            <label class="form-check-label" for="flexRadioDefault1">Normal Delivery (₹ 50)</label><br/>
+            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" value="2" (click)="showHideText(true);"/>
+            <label class="form-check-label" for="flexRadioDefault2">Schedule Your Delivery (₹ 80)</label>
+            <input *ngIf="isDisplayed" type="date" name="scheduleDelevery" formControlName="scheduleDelevery"/>
+        </div> 
+        <div class="form-group">
+            <label for="walletPoints">Use Wallet Points: </label>
+            <input type="number" max={{maxLimit}} id="walletPoints" name="usewalletPoints" formControlName="useWalletPoints" (input)="walletUsed(paymentForm.value.useWalletPoints)"/> (Available : {{walletPoints}}) & can use max: 10 points
+        </div>
+        <br/>
+        <hr/><br/><br/>
+        <div class="d-flex flex-column">
+            <div class="d-flex align-items-center justify-content-between text"> <span class="">Cart bill</span> <span
+                class="fas fa-dollar-sign"><span >{{subTotal}}</span></span> </div>
+            <div class="d-flex align-items-center justify-content-between text"> <span class="">Wallet Points Applied</span> <span
+                class="fas fa-dollar-sign"><span >-{{usedWalletPoints}}</span></span> </div>
+            <div class="d-flex align-items-center justify-content-between text"> <span class="">Delevery Charge</span> <span
+                    class="fas fa-dollar-sign"><span >{{deliveryCharge}}</span></span> </div><hr/>
+            <div class="d-flex align-items-center justify-content-between text mb-4"> <span>Total</span> <span
+                    class="fas fa-dollar-sign"><span >{{total}}</span></span> </div><hr/><br/>                  
+               <h5>Select Payment Menthod</h5>     
+            <select class="form-select form-select-sm" formControlName="paymentMethod" placeholder="Select Payment Option">
+                <option value="Card">Card</option>
+                <option value="UPI">UPI</option>
+                <option value="COD">Cash on Delevery</option>
+            </select><br/>
+            <button class="btn btn-success" (click)="proceedClick(paymentForm.value)" [disabled]="!paymentForm.valid">Proceed</button>
+        </div>
+    </form>
+    </div>
+    <div class="card box2 shadow-sm" *ngIf="payment==true">
+        <div class="d-flex align-items-center justify-content-between p-md-5 p-4"> <span class="h5 fw-bold m-0">Payment
+                methods</span>
+            <div class="btn btn-primary bar"><span class="fas fa-bars"></span></div>
+        </div>
+        <ul class="nav nav-tabs mb-3 px-md-4 px-2">
+            <li class="nav-item"> <a class="nav-link px-2 active" aria-current="page" href="#">Credit Card</a> </li>
+            <li class="nav-item"> <a class="nav-link px-2">Mobile Payment</a> </li>
+        </ul>
+        <div class="px-md-5 px-4 mb-4 d-flex align-items-center">
+            <div class="btn btn-success me-4"><span class="fas fa-plus"></span></div>
+            <div class="btn-group" role="group" aria-label="Basic radio toggle button group"> <input type="radio"
+                    class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked> <label
+                    class="btn btn-outline-primary" for="btnradio1"><span class="pe-1">+</span>5949</label> <input
+                    type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off"> <label
+                    class="btn btn-outline-primary" for="btnradio2"><span class="lpe-1">+</span>3894</label> </div>
+        </div>
+        <form action="">
+            <div class="row">
+                <div class="col-12">
+                    <div class="d-flex flex-column px-md-5 px-4 mb-4"> <span>Credit Card</span>
+                        <div class="inputWithIcon"> <input class="form-control" type="text" value="5136 1845 5468 3894">
+                            <span class=""> <img
+                                    src="https://www.freepnglogos.com/uploads/mastercard-png/mastercard-logo-logok-15.png"
+                                    alt=""></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="d-flex flex-column ps-md-5 px-md-0 px-4 mb-4"> <span>Expiration<span
+                                class="ps-1">Date</span></span>
+                        <div class="inputWithIcon"> <input type="text" class="form-control" value="05/20"> <span
+                                class="fas fa-calendar-alt"></span> </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="d-flex flex-column pe-md-5 px-md-0 px-4 mb-4"> <span>Code CVV</span>
+                        <div class="inputWithIcon"> <input type="password" class="form-control" value="123"> <span
+                                class="fas fa-lock"></span> </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="d-flex flex-column px-md-5 px-4 mb-4"> <span>Name</span>
+                        <div class="inputWithIcon"> <input class="form-control text-uppercase" type="text"
+                                value="valdimir berezovkiy"> <span class="far fa-user"></span> </div>
+                    </div>
+                </div>
+                <div class="col-12 px-md-5 px-4 mt-3">
+                    <div class="btn btn-primary w-100" (click)="alerto()" [routerLink]="['/home2']">Pay {{total}}</div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

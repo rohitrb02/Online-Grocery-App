@@ -1,0 +1,30 @@
+#heading{
+    text-align:center;
+    font-size:60px;
+    font-weight: 800;
+    font-family: 'Brush Script MT', cursive;
+    height: 250px;
+    padding: 30px;
+    background-image: url('/assets/Images/grocery_bg.png'), linear-gradient(to bottom right, #84fc79 0%, #245c2b 100%);
+    background-repeat: no-repeat, no-repeat,no-repeat;
+    background-position: middle left, right,bottom right;
+    color: #f5f5f5; 
+}
+
+#body{
+    
+    background-color: #195923;
+    text-align: center;
+}
+#inner{
+    font-size: 40px;
+    font-weight: 600;
+    color: whitesmoke;
+    text-align:left;
+    margin-left: 40px;
+    padding: 30px;
+}
+#image{
+    height: 50px;
+    width: 40px;
+}

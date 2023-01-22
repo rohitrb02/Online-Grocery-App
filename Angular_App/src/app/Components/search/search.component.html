@@ -1,0 +1,31 @@
+<div class="row">
+
+    <div class="col-3">
+        <shop-now></shop-now>
+    
+    </div>
+    <div class="col-8">
+        <h3 style="text-align: center;"> Results for "{{searchValue}}"</h3>
+        <div class="row" *ngIf="productList">
+    
+            <div class="col-4" *ngFor="let p of productList">
+                <div class="card" *ngIf="p != null">
+                    <img src={{p.image}} style="width: 175px; height:200px; margin:auto; border-radius:2px;" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">{{p.name}}</h5>
+                        <p> Made in: {{p.countryOfOrigin}}</p>
+                        <p>Unit Quantity: {{p.unitQuantity}}</p>
+                        <div *ngIf="p.discount=='0'">
+                            <p class="card-text"><span>&#8377;{{p.price}}</span></p>
+                        </div>
+                        <div *ngIf="p.discount!='0'">
+                            <p class="card-text">Discount :{{p.discount}} %</p>
+                            <p class="card-text"><span style="text-decoration: line-through;">&#8377;{{p.price}} </span><span> &#8377;{{CheckPrice(p.discount,p.price)}}</span></p>
+                        </div>
+                        <button (click)="AddToCartCall(p,CheckPrice(p.discount,p.price))" class="btn btn-success">Add To Cart</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>

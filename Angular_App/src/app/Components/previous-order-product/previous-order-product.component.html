@@ -1,0 +1,25 @@
+<div style="width:100%;height:330px;overflow-y:auto">
+    <div id="flex" *ngFor="let p of allProduct">
+        <div>
+            <img id="img" src={{p.image}} />
+        </div>
+        <div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Name : {{p.name}}</li>
+                <li class="list-group-item">Price : {{p.price}}</li>
+                <li class="list-group-item">UnitQuantity : {{p.unitQuantity}}</li>
+                <li class="list-group-item">Quantity : {{p.quantity}}</li>
+                <li class="list-group-item">Country Of Origin : {{p.countryOfOrigin}}</li><br>
+                <form  #f1="ngForm" class="px-4" action="">
+                    <ngb-rating #rating="ngModel" [(ngModel)]="productFeedback.rating" name="rating" style="--star-size: 60px;font-size: 35px;" [max]="5" [(rate)]=currentrate [readonly]="false"></ngb-rating>
+                    <div id="flex">
+                        <input #review="ngModel" [(ngModel)]="productFeedback.review" name="review" class="form-control" id="form4Example6" rows="4">
+                        <button style="margin-left:5px;" (click)="Feedback(p.productId)" [disabled]="buttonOff" type="button"
+                            class="btn btn-success">Submit</button>
+                    </div>
+                </form>
+            </ul>
+        </div>
+    </div>
+</div>
+
